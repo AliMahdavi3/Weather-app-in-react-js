@@ -1,2 +1,2 @@
-# Weather-app-in-react-js
-Weather-app-useing-api and react js
+# Weather-app-with-react-js
+Weather-app-useing-api-react-redux and react js
